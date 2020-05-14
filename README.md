@@ -1,2 +1,2 @@
-# UWCS142
-Projects from UWCS142
+# UWCS142 and 143
+Projects from UWCS142 and 143
